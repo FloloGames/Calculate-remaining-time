@@ -47,6 +47,6 @@ function enterButtonPressed(){
     d += 1;
   }
 
-  output.html('Days: ' + d + '<br>' + 'Hour: ' + h + '<br>' + 'Minute: ' + m + '<br>' + 'Second: ' + round(seconds));
+  output.html('Days: ' + d + '<br>' + 'Hours: ' + h + '<br>' + 'Minutes: ' + m + '<br>' + 'Seconds: ' + round(seconds));
 
 }
